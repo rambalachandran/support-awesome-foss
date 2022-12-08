@@ -5,7 +5,7 @@ The goal of this repository is to curate and maintain a list of Free and Open So
 ## Table of Contents
 
 - [Android](#android)
-- [Linux Desktop](#linux-desktop)
+- [MultiOS](#multios)
 
 ## Android
 - [Aegis Authenticator](https://getaegis.app/) - Aegis Authenticator is a free, secure and open source app for Android to manage your 2-step verification tokens for your online services. 
