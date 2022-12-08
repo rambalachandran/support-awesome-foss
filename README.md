@@ -1,6 +1,6 @@
 ## Support-Awesome-FOSS
 
-The goal of this repository is to curate and maintain a list of Free and Open Source Software (FOSS), mainly focusing on linking their support pages to help support these projects.
+The goal of this repository is to curate and maintain a list of Free and Open Source Software (FOSS), mainly focusing on small scale developers and organizations, especially linking their support pages to help support these projects.
 
 ## Table of Contents
 
