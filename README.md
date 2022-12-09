@@ -1,10 +1,15 @@
 ## Support-Awesome-FOSS
 
-The goal of this repository is to curate and maintain a list of Free and Open Source Software (FOSS), mainly focusing on small scale developers and organizations, especially linking their support pages to help support these projects.
+The goal of this repository is to curate and maintain a list of support links for small scale Free and Open Source Software (FOSS) projects.
+
+## Contributing
+- To clarify any questions, please open an issue request or comment in general issue
+- To update or add new projects, please edit this `README.md` file and create a pull request
 
 ## Table of Contents
 
 - [Android](#android)
+- [Android TV](#android-tv)
 - [MultiOS](#multios)
 
 ## Android
@@ -47,6 +52,11 @@ The goal of this repository is to curate and maintain a list of Free and Open So
 - [Termux](https://termux.dev/en/) - Android terminal emulator and Linux environment app 
     - [Install-Link](https://github.com/termux/termux-app#f-droid)
     - [Support-Link](https://termux.dev/en/donate)
+
+## Android TV
+- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free & open source.
+    - [Install-Link](https://github.com/yuliskov/SmartTubeNext#Installation)
+    - [Support-Link](https://github.com/yuliskov/SmartTubeNext#Donation)
 
 ## MultiOS
 - [RCLONE](https://rclone.org/) - Rclone is a opensource command-line program to manage files on cloud storage.
