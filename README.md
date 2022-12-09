@@ -3,6 +3,7 @@
 The goal of this repository is to curate and maintain a list of support links for small scale Free and Open Source Software (FOSS) projects.
 
 ## Contributing
+This list is by no means exhaustive. To improve the repository, please consider contributing through
 - To clarify any questions, please open an issue request or comment in general issue
 - To update or add new projects, please edit this `README.md` file and create a pull request
 
